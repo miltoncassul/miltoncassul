@@ -23,4 +23,10 @@
 
 ### Atualmente estou aprendendo Data Analytics pela Digital House, uma parceria com a iFood...
 
+## Data Analytics
+
+<div>
+    <img align = "center" alt = "Python" src= "https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> 
+<br/>
+
 Apaixonado por ciência e tecnologia...
