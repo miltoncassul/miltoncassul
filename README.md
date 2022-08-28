@@ -25,7 +25,8 @@
 ## Data Analytics
 
 <div>
-    <img align = "center" alt = "Python" src= "https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> 
+    <img align = "center" alt = "Python" src= "https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+    <img align = "center" alt = "R" src= "https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
 <br/>
 
 ### Atualmente estou aprendendo Data Analytics pela Digital House, uma parceria com a iFood...
