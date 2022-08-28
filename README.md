@@ -27,10 +27,9 @@
 <div>
     <img align = "center" alt = "Python" src= "https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
     <img align = "center" alt = "R" src= "https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
-    <img align = "center" alt = "SQL Server" src= "https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
+    <img align = "center" alt = "SQL Server" src= "https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
     <img align = "center" alt = "MySQL" src= "https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
     <img align = "center" alt = "PostgreSQL" src= "https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-    <img align = "center" alt = "Power BI" src= "https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white" />
     <img align = "center" alt = "Tableau" src= "https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" />
     <img align = "center" alt = "Google AnalyticsL" src= "https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=google%20analytics&logoColor=white" />
 </div><br/>
